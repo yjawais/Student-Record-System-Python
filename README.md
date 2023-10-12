@@ -87,7 +87,6 @@ To record grades for a student's course, follow these steps:
 
 The system automatically calculates the GPA for each student based on their recorded grades.
 
-## Data Structure
 
 ### Student Information
 
@@ -97,19 +96,7 @@ The system automatically calculates the GPA for each student based on their reco
 - Date of Birth
 - Contact Information (Email, Phone, Address)
 
-### Course Information
 
-- Course Name
-- Instructor
-- Semester/Year
 
-### Student Grades
-
-- Course Name
-- Assignments
-- Midterm Exam
-- Final Exam
-- Other Assessments
-- GPA
 
 
