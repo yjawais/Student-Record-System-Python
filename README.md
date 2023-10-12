@@ -83,18 +83,7 @@ To record grades for a student's course, follow these steps:
 3. Enter the grades for assignments, exams, and other assessments.
 4. Save the grades.
 
-#### Calculate GPA
 
-The system automatically calculates the GPA for each student based on their recorded grades.
-
-
-### Student Information
-
-- Student ID
-- First Name
-- Last Name
-- Date of Birth
-- Contact Information (Email, Phone, Address)
 
 
 
